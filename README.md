@@ -20,6 +20,7 @@ This project allows a PS2 Steering Wheel to interface with a computer as an XInp
 ### Hardware Setup
 
 1. Connect the PS2 controller pins to your Arduino as follows:
+
 ![img](https://github.com/user-attachments/assets/b4396942-dcff-4d04-933a-61eb63facc11)
    - **ATT (Attention)** → Pin 9
    - **CMD (Command)** → Pin 10

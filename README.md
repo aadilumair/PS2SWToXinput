@@ -35,7 +35,7 @@ This project allows a PS2 Steering Wheel to interface with a computer as an XInp
 1. **Install Libraries**:
    - Download and install the following libraries:
      - [PsxNewLib](https://github.com/SukkoPera/PsxNewLib)
-     - [XInput Library for Arduino](https://github.com/dmadison/ArduinoXInput)\
+     - [XInput Library for Arduino](https://github.com/dmadison/ArduinoXInput)
    - Place the libraries in your Arduino `libraries` folder.
    
 2. **Upload the Code**:
